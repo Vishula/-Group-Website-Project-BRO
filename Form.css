@@ -1,0 +1,53 @@
+@charset "utf-8";
+	#formwrapper {
+		width: 300px;
+		height: auto;
+		background-color: #FFF;
+	}
+	form {
+		width: 300px;
+		height: auto;
+		background-color: #FFF;
+	}
+	fieldset {
+		background-color: #FFF;
+		border: none;
+		padding-bottom: 10px;
+	}
+	h1 {
+		font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-size: 16px;
+		color: #000;
+	}
+	label {
+		width: 250px;
+		display: block;
+		font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		font-size: 11px;
+		color: #000;
+		margin-top: 5px;
+		margin-right: 0px;
+		margin-bottom: 5px;
+		margin-left: 0px;
+	}
+	input {
+		width: 250px;
+		border: thin solid #6CF;
+		margin-bottom: 10px;
+	}
+	textarea {
+		width: 250px;
+		border: thing solid #6CF;
+		margin-bottom: 10px;
+	}
+	.btn {
+		width: 250px;
+		height: 20px;
+		font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+		color: #FFF;
+		font-weight: bold;
+		background-color: #6CF;
+		margin-left: 10px;
+		float: left;
+	}
+
